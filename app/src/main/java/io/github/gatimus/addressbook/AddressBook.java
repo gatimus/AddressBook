@@ -15,6 +15,7 @@ import android.widget.CursorAdapter;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
 
+//never used, reference for AddressBookFragment
 public class AddressBook extends ListActivity {
     public static final String ROW_ID = "row_id"; // Intent extra key
     private ListView contactListView; // the ListActivity's ListView
